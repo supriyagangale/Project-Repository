@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GoibiboSuit]">
+  <test name="GoibiboTestCases(failed)">
+    <classes>
+      <class name="Goibibo_Menu.Flight">
+        <methods>
+          <include name="CallDriver"/>
+          <include name="FlightDetails"/>
+        </methods>
+      </class> <!-- Goibibo_Menu.Flight -->
+    </classes>
+  </test> <!-- GoibiboTestCases(failed) -->
+</suite> <!-- Failed suite [GoibiboSuit] -->
